@@ -9,8 +9,8 @@
 <h2 align="center"> Página de captura construida durante o curso Programador br.</h2>
 
 <p align="center">
-  <a href="#rocket-Tecnologias e ferramentas">Tecnologias e ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-fui-alem-do-desafio">Fui além do desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Tecnologias e ferramentas">Tecnologias e ferramentas</a>
+  <a href="#information_source-fui-alem-do-desafio">Fui além do desafio</a>
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -27,6 +27,7 @@
 <br>
 
 ## :rocket: Tecnologias e ferramentas
+
 - CSS 3
 - HTML 5
 - VS Code
@@ -40,6 +41,7 @@
 <br>
 
 ## :information_source: Fui além do desafio
+
 💻 Fiz uma página diferente da página do desafio e com uma ideia própria.
 
 💻 Implementei uma Demo hospedando a página no Netlify.
@@ -55,6 +57,7 @@
 <hr>
 
 ## :memo: Licença
+
 Este projeto está sob a licença do MIT. Consulte a [LICENÇA](https://github.com/igoririneu/pagina_de_captura_Game-News/blob/main/LICENSE) para obter mais informações.
 
 <hr>
