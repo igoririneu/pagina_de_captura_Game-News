@@ -18,8 +18,6 @@
 
 <hr>
 
-<br>
-
 ## :rocket: Tecnologias e ferramentas
 
 - CSS 3
@@ -31,8 +29,6 @@
 - Integração com Mailchimp
 
 <hr>
-
-<br>
 
 ## :information_source: Fui além do desafio
 
