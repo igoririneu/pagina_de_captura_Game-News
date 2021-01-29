@@ -8,12 +8,6 @@
 
 <h2 align="center"> Página de captura construida durante o curso Programador br.</h2>
 
-<p align="center">
-  <a href="#rocket-tecnologias-e-ferramentas">Tecnologias e ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-fui-alem-do-desafio">Fui além do desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
 <br>
 
 <img alt="Gif da página" src="./github/Demo.gif">
