@@ -2,9 +2,9 @@
 <strong> Game News </strong>
 
 <br>
-
+<a href="https://programadorbr.com/">
 <img alt="Logo do curso Progbr" src="./github/Logoprogbr.png">
-</h1>
+</a></h1>
 
 <h2 align="center"> Página de captura construida durante o curso Programador br.</h2>
 
