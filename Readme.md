@@ -6,7 +6,7 @@
 <img alt="Logo do curso Progbr" src="./github/Logoprogbr.png">
 </a></h1>
 
-<h2 align="center"> Página de captura construida durante o curso Programador br.</h2>
+<h2 align="center"> Página de captura construída durante o curso Programador br.</h2>
 
 <br>
 
